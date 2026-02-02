@@ -64,4 +64,13 @@ Browser: Chrome
 Screen Size: 393 px X 808 px
 Resoution size: 393 px X 800 px
 
+Tabs:
+------------------
+Device : Apple AirPods
+Android Version: 12
+Browser : Safari
+Screen Size: 393 px X 808 px
+Resoution size: 393 px X 800 px
+
+
 
