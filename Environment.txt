@@ -1,0 +1,63 @@
+IPAD  environment:
+---------------------------
+Device: iPad Pro 
+OS version: 16.6
+Browser: Safari
+Internet: Wi-fi
+Screen size: 83px x 1112px 
+Viewport size: 834px X 1037px
+
+Mac:
+------------------
+Device : MacBook Pro
+OS: macOS Sonoma 14.5
+Browser: Safari
+Internet: Wi-fi
+Screen Size: 1728px X 1028px
+Viewport Size: 1728px x 1028px
+
+MacBook Air:
+----------------------
+Device: MacBook Air
+Browser: Safari
+Screen Size: 1440px X 900px
+ViewPort Size: 1440px X 800px
+
+
+Lenovo:(Windows)
+-------------------
+Device : Lenovo IdeaPad Gaming .
+OS : Windows 11
+Browser : Chrome browser
+Internet connection: Wi-fi.
+Screen Size: 1536px X 864px
+Viewport Size: 1536px X 730px
+
+Asus Vivo book:
+--------------------
+Device: Vivo_Book Asus Laptop
+OS : Windows 11
+Browser : Chrome browser
+Internet connection: Wi-fi.
+Screen Size: 1280 px X 585 px
+Viewport Size:1280 px X 720 px
+
+
+
+Mobiles:
+-------------------
+Device : Pixel 3a
+Android Version: 12
+Browser : Chrome
+Screen Size: 393 px X 808 px
+Resoution size: 393 px X 800 px
+
+Device:Poco X6 Pro
+Os: Android 15
+Browser:Chrome
+Screen size:407 px X 904 px
+Viewport size:407 px X 767 px
+
+Device: iPhone 12
+OS: iOS 16.5.1
+Browser: Safari
