@@ -58,6 +58,13 @@ Browser:Chrome
 Screen size:407 px X 904 px
 Viewport size:407 px X 767 px
 
+Device: Realme 5Pro
+Android version: 12
+Browser: Chrome
+Screen Size: 393 px X 808 px
+Resoution size: 393 px X 800 px
+
 Device: iPhone 12
 OS: iOS 16.5.1
+
 Browser: Safari
