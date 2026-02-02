@@ -72,5 +72,12 @@ Browser : Safari
 Screen Size: 393 px X 808 px
 Resoution size: 393 px X 800 px
 
+Device : ChromeBook Redmi
+Android Version: 12
+Browser : Chrome
+Screen Size: 393 px X 808 px
+Resoution size: 393 px X 800 px
+
+
 
 
