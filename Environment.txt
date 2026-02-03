@@ -78,6 +78,14 @@ Browser : Chrome
 Screen Size: 393 px X 808 px
 Resoution size: 393 px X 800 px
 
+2017 Mobile devices
+--------------------
+Device : Oppo A37F
+Android Version: 7
+Browser : Chrome
+Screen Size: 393 px X 808 px
+Resoution size: 393 px X 800 px
+
 
 
 
