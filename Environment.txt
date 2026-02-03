@@ -90,6 +90,10 @@ Resoution size: 393 px X 800 px
 added new iphone 17pro plus
 
 
+Tv Devices:
+-------------
+Device name: Sony Bravia
+Screen size: 50inches
 
 
 
